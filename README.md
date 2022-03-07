@@ -7,7 +7,7 @@ https://github.com/samironbarai/laravel-7-multi-auth.git
 
 ## Install composer packages
 ```
-$ cd laravel-7-multi-auth
+$ cd laravel-8-multi-auth
 $ composer install
 ```
 
