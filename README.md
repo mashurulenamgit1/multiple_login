@@ -1,8 +1,8 @@
-## Laravel 7 multiple authentication system
+## Laravel 8 multiple authentication system
 
 ## Clone this repo
 ```
-https://github.com/samironbarai/laravel-7-multi-auth.git
+https://github.com/samironbarai/laravel-8-multi-auth.git
 ```
 
 ## Install composer packages
