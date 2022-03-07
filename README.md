@@ -2,12 +2,12 @@
 
 ## Clone this repo
 ```
-https://github.com/samironbarai/laravel-8-multi-auth.git
+https://github.com/samironbarai/multiple-login.git
 ```
 
 ## Install composer packages
 ```
-$ cd laravel-8-multi-auth
+$ cd multiple-login
 $ composer install
 ```
 
